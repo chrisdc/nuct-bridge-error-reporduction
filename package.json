@@ -1,0 +1,22 @@
+{
+  "name": "bridge-test-7",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi generate",
+    "start": "nuxi start"
+  },
+  "dependencies": {
+    "core-js": "^3.25.3",
+    "nuxt": "^2.16.2",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge@^3.0.0-27928371.c30fa0f",
+    "install": "^0.13.0",
+    "npm": "^9.6.1"
+  }
+}
