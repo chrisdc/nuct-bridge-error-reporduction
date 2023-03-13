@@ -9,7 +9,7 @@ export default defineNuxtConfig({
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "bridge-test-7",
+    title: "nuxt-bridge-error-reporduction",
     htmlAttrs: {
       lang: "en",
     },
